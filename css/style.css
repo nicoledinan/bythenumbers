@@ -1,7 +1,36 @@
 body {
   background-color: #2A2D46;
+  font-family: 'Nunito', sans-serif;
 }
 
+h1 {
+  color: #FFD60A;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+}
+
+.headline {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+p {
+  color: #fff;
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  margin-bottom: 50px;
+}
+
+.purple {
+  background-color: #5E5CE6;
+  color: #fff;
+  border-color: #5E5CE6;
+  margin-bottom: 50px;
+}
+
+.purple:focus {
+  border-color: #8280F2;
+}
 
 
 
