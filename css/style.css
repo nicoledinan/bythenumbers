@@ -9,6 +9,10 @@ h1 {
   font-family: 'Nunito', sans-serif;
 }
 
+h2 {
+  color: #fff;
+}
+
 .headline {
   margin-top: 50px;
   margin-bottom: 30px;
