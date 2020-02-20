@@ -29,15 +29,15 @@ p {
 }
 
 .purple {
-  background-color: #5E5CE6;
-  color: #fff;
-  border-color: #5E5CE6;
+  background-color: #e2e2e2;
+  color: #2A2D46;
+  border-color: #e2e2e2;
   margin-bottom: 50px;
 }
 
-.purple:focus {
+/* .purple:focus {
   border-color: #8280F2;
-}
+} */
 
 .inv {
     display: none;
