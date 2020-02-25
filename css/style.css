@@ -61,3 +61,13 @@ a {
 a:hover {
   color: #ffe566;
 }
+
+#male {
+  color:#0067FF;
+  font-weight: 700;
+}
+
+#female {
+  color: #F9385F;
+  font-weight: 700;
+}
